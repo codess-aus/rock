@@ -1,4 +1,5 @@
-# A rock, paper, scissors game with a simple AI opponent.
+# Michekkle
+#A rock, paper, scissors game with a simple AI opponent.
 
 import random  # Import the random module to allow the AI to make random choices
 
